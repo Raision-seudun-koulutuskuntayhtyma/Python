@@ -1,2 +1,2 @@
 # Python
-Python tehtäviä
+Python tehtäviä Wiki sivulla
